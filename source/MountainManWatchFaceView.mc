@@ -94,8 +94,8 @@ class MountainManWatchFaceView extends Ui.WatchFace {
 
         // Draw the date - center right
         var dateContainerSize = 74;
-        dc.setColor(Gfx.COLOR_LT_GRAY, Gfx.COLOR_LT_GRAY); 
-        dc.drawRoundedRectangle(width - dateContainerSize - paddingFromEdge, halfHeight - (smallFontHeight/2 - 1), dateContainerSize, smallFontHeight+2, 2);//.drawRectangle(halfWidth, (dateContainerSize) + paddingFromEdge, altitudeContainerSize);
+        dc.setColor(Gfx.COLOR_DK_GRAY, Gfx.COLOR_LT_GRAY); 
+        dc.drawRoundedRectangle(width - dateContainerSize - paddingFromEdge, halfHeight - (smallFontHeight/2 - 1), dateContainerSize, smallFontHeight+2, 2);
         var now = Time.now();
         var info = Calendar.info(now, Time.FORMAT_LONG);
         var dateStr = Lang.format("$1$ | $2$", [info.day_of_week, info.day]);
@@ -103,7 +103,7 @@ class MountainManWatchFaceView extends Ui.WatchFace {
         dc.drawText(width - paddingFromEdge - 4, (halfHeight)-12, Gfx.FONT_SMALL, dateStr, Gfx.TEXT_JUSTIFY_RIGHT);
         
         // Draw the steps - bottom center
-		var stepContainerSize = 32;
+		var stepContainerSize = 30;
 		dc.setColor(Gfx.COLOR_DK_GRAY, Gfx.COLOR_TRANSPARENT);
 		dc.drawCircle(halfWidth, height - (stepContainerSize) - paddingFromEdge, stepContainerSize);
 		dc.drawText(halfWidth, height - (stepContainerSize) - paddingFromEdge - (tinyFontHeight - 4), Gfx.FONT_XTINY, "STEPS:", Gfx.TEXT_JUSTIFY_CENTER);
@@ -137,10 +137,14 @@ class MountainManWatchFaceView extends Ui.WatchFace {
 		}
 		        
         // Draw the secondary time
+        var timeContainerSize = 48;
+        dc.setColor(Gfx.COLOR_DK_GRAY, Gfx.COLOR_LT_GRAY); 
+        dc.drawRoundedRectangle(quarterWidth - (timeContainerSize/2) - paddingFromEdge + 2, threeQuarterHeight - (tinyFontHeight/2), timeContainerSize, tinyFontHeight+2, 2);
         dc.setColor(Gfx.COLOR_LT_GRAY, Gfx.COLOR_TRANSPARENT);
-        var utcNow = Time.now();//TODO: calculate
+        //TODO: clean up - what is the source of my second time UTC or current?
+        var utcNow = Time.now();
         var utcInfo = Calendar.info(utcNow, Time.FORMAT_LONG);
-        var utcStr = Lang.format("$1$:$2$", [utcInfo.hour, utcInfo.min]);
+        var utcStr = Lang.format("$1$:$2$", [utcInfo.hour.format("%02d"), utcInfo.min.format("%02d")]);
         dc.setColor(Gfx.COLOR_LT_GRAY, Gfx.COLOR_TRANSPARENT);
         dc.drawText(quarterWidth, threeQuarterHeight - (tinyFontHeight / 2), Gfx.FONT_TINY, utcStr, Gfx.TEXT_JUSTIFY_CENTER);
                 
