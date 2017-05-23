@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="31" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="32" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="33" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="34" pc="268435507" symbol="initialize"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="35" pc="268435536" symbol="initialize"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="38" pc="268435575" symbol="onLayout"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="39" pc="268435579" symbol="onLayout"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="40" pc="268435622" symbol="onLayout"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="41" pc="268435641" symbol="onLayout"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="42" pc="268435660" symbol="onLayout"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="43" pc="268435673" symbol="onLayout"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="44" pc="268435695" symbol="onLayout"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="45" pc="268435717" symbol="onLayout"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="46" pc="268435739" symbol="onLayout"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="47" pc="268435761" symbol="onLayout"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="48" pc="268435783" symbol="onLayout"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="49" pc="268435805" symbol="onLayout"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="50" pc="268435840" symbol="onLayout"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="58" pc="268435876" symbol="drawHand"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="60" pc="268435880" symbol="drawHand"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="61" pc="268436078" symbol="drawHand"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="62" pc="268436086" symbol="drawHand"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="63" pc="268436105" symbol="drawHand"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="66" pc="268436124" symbol="drawHand"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="67" pc="268436142" symbol="drawHand"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="68" pc="268436173" symbol="drawHand"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="69" pc="268436204" symbol="drawHand"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="73" pc="268436266" symbol="drawHand"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="74" pc="268436280" symbol="drawHand"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="78" pc="268436295" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="79" pc="268436299" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="80" pc="268436316" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="81" pc="268436316" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="82" pc="268436316" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="83" pc="268436316" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="85" pc="268436316" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="86" pc="268436345" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="88" pc="268436383" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="91" pc="268436402" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="92" pc="268436438" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="93" pc="268436476" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="96" pc="268436512" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="97" pc="268436519" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="98" pc="268436555" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="99" pc="268436637" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="100" pc="268436654" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="101" pc="268436685" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="102" pc="268436745" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="103" pc="268436781" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="106" pc="268436856" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="107" pc="268436863" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="108" pc="268436899" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="109" pc="268436941" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="110" pc="268437025" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="111" pc="268437061" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="114" pc="268437139" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="115" pc="268437146" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="116" pc="268437182" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="117" pc="268437215" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="118" pc="268437290" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="119" pc="268437326" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="122" pc="268437424" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="123" pc="268437431" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="124" pc="268437467" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="125" pc="268437500" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="126" pc="268437575" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="127" pc="268437611" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="127" pc="268437647" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="130" pc="268437722" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="131" pc="268437758" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="133" pc="268437791" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="134" pc="268437814" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="135" pc="268437819" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="136" pc="268437855" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="140" pc="268437891" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="141" pc="268437927" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="142" pc="268437944" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="143" pc="268437975" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="144" pc="268438035" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="145" pc="268438071" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="148" pc="268438140" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="149" pc="268438176" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="150" pc="268438207" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="151" pc="268438217" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="152" pc="268438240" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="155" pc="268438266" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="156" pc="268438301" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="159" pc="268438327" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="160" pc="268438338" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="161" pc="268438374" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="162" pc="268438409" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="163" pc="268438426" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="164" pc="268438452" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="168" pc="268438481" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="169" pc="268438517" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="170" pc="268438550" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="171" pc="268438586" symbol="onUpdate"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="174" pc="268438620" symbol="onEnterSleep"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="175" pc="268438624" symbol="onEnterSleep"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="176" pc="268438634" symbol="onEnterSleep"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="179" pc="268438651" symbol="onExitSleep"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceView.mc" lineNum="180" pc="268438655" symbol="onExitSleep"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceApp.mc" lineNum="5" pc="268438666" symbol="initialize"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceApp.mc" lineNum="6" pc="268438670" symbol="initialize"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceApp.mc" lineNum="10" pc="268438689" symbol="onStart"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceApp.mc" lineNum="14" pc="268438694" symbol="onStop"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceApp.mc" lineNum="18" pc="268438699" symbol="getInitialView"/>
+<entry filename="C:\\Repos\\MountainManWatchFace\\source\\MountainManWatchFaceApp.mc" lineNum="19" pc="268438703" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="19" pc="268438741" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="21" pc="268438745" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="22" pc="268438908" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268438933" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268438985" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="27" pc="268439031" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="21" symbol="quarterHeight"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry field="true" id="20" symbol="halfWidth"/>
+<entry field="true" id="19" symbol="halfHeight"/>
+<entry id="8" object="true" symbol="MountainManWatchFaceView"/>
+<entry field="true" id="25" symbol="smallFontHeight"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="8388724" symbol="battery"/>
+<entry id="9" object="true" symbol="MountainManWatchFaceApp"/>
+<entry field="true" id="17" symbol="sensorInfo"/>
+<entry field="true" id="26" symbol="tinyFontHeight"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
+<entry id="27" method="true" symbol="drawHand"/>
+<entry id="8388641" symbol="Math"/>
+<entry field="true" id="16" symbol="dndIcon"/>
+<entry field="true" id="12" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="22" symbol="quarterWidth"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="8388963" symbol="altitude"/>
+<entry field="true" id="18" symbol="paddingFromEdge"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="15" symbol="isAwake"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry field="true" id="23" symbol="threeQuarterHeight"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="13" symbol="id_font_black_diamond"/>
+<entry field="true" id="24" symbol="threeQuarterWidth"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436253" name="x" stackId="10" startPc="268436142"/>
+<entry endPc="268436253" name="y" stackId="11" startPc="268436142"/>
+<entry endPc="268436266" name="i" stackId="9" startPc="268436142"/>
+<entry endPc="268436294" name="result" stackId="6" startPc="268435880"/>
+<entry endPc="268436294" name="sin" stackId="8" startPc="268435880"/>
+<entry endPc="268436294" name="cos" stackId="7" startPc="268435880"/>
+<entry endPc="268436294" name="coords" stackId="5" startPc="268435880"/>
+<entry endPc="268438619" name="utcNow" stackId="16" startPc="268436299"/>
+<entry endPc="268438619" name="hourHand" stackId="3" startPc="268436299"/>
+<entry endPc="268438619" name="now" stackId="9" startPc="268436299"/>
+<entry endPc="268438619" name="info" stackId="10" startPc="268436299"/>
+<entry endPc="268438619" name="secondHand" stackId="5" startPc="268436299"/>
+<entry endPc="268438619" name="dateStr" stackId="11" startPc="268436299"/>
+<entry endPc="268438619" name="batteryContainerSize" stackId="14" startPc="268436299"/>
+<entry endPc="268438619" name="clockTime" stackId="2" startPc="268436299"/>
+<entry endPc="268438619" name="minuteHand" stackId="4" startPc="268436299"/>
+<entry endPc="268438619" name="phoneConnected" stackId="15" startPc="268436299"/>
+<entry endPc="268438619" name="secondTail" stackId="6" startPc="268436299"/>
+<entry endPc="268438619" name="activityInformation" stackId="7" startPc="268436299"/>
+<entry endPc="268438619" name="stepContainerSize" stackId="12" startPc="268436299"/>
+<entry endPc="268438619" name="utcStr" stackId="18" startPc="268436299"/>
+<entry endPc="268438619" name="altitudeContainerSize" stackId="13" startPc="268436299"/>
+<entry endPc="268438619" name="dateContainerSize" stackId="8" startPc="268436299"/>
+<entry endPc="268438619" name="utcInfo" stackId="17" startPc="268436299"/>
+<entry endPc="268439048" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268438745"/>
+<entry endPc="268439048" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268438745"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="MountainManWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="MountainManWatchFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHand" parent="MountainManWatchFaceView">
+<param id="dc"/>
+<param id="angle"/>
+<param id="length"/>
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="MountainManWatchFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="MountainManWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="MountainManWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MountainManWatchFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="MountainManWatchFaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="MountainManWatchFaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="MountainManWatchFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
